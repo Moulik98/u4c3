@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "db": "^3.3.1",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7"
+  }
+}
